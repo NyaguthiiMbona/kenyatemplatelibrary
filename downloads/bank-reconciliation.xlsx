@@ -1,7 +1,1 @@
-	Bank Reconciliation				
-	Date	Description	Bank Amount (KES)	Book Amount (KES)	Difference (KES)
-	1-Dec-25	Opening Balance	100,000	100,000	0
-	5-Dec-25	Deposit	50,000	50,000	0
-	10-Dec-25	Cheque Payment	15,000	15,000	0
-					
-			Tip: Use formula for Difference: =Bank Amount - Book Amount		
+
