@@ -1,13 +1,15 @@
-Department	01-Dec	02-Dec	03-Dec	...	31-Dec	Total Present	Total Absent
+								
+Employee Name	Department	1-Dec	2-Dec	3-Dec	...	31-Dec	Total Present	Total Absent
 John Doe	Sales	P	P	A	...	P	20	2
 Jane Wanjiku	HR	P	P	P	...	A	22	1
+								
+Legend:								
+								
+P = Present								
+								
+A = Absent								
+								
+L = Leave								
+								
+Tip: Use formulas to sum Total Present and Total Absent for each employee.								
 
-Legend:
-
-P = Present
-
-A = Absent
-
-L = Leave
-
-Tip: Use formulas to sum Total Present and Total Absent for each employee.
