@@ -1,0 +1,7 @@
+Expense report					
+Employee Name	Department	Expense Type	Date	Amount (KES)	Approved By
+John Doe	Sales	Travel	1-Dec-25	2,500	Supervisor
+Jane Wanjiku	HR	Office Supplies	2-Dec-25	1,200	Supervisor
+Peter Mwangi	Finance	Client Lunch	3-Dec-25	3,000	Supervisor
+					
+Tip: Add a total at the bottom using =SUM(E2:E100)					
