@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenya Template Library | Free Business Templates</title>
+    <meta name="description" content="Kenya Template Library offers free, easy-to-use templates for business, HR, finance, legal, and marketing. Download templates for your Kenyan business today.">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>Kenya Template Library</h1>
+        <p>Free, ready-to-use templates for Kenyan businesses</p>
+    </header>
+
+    <!-- Categories Section -->
+    <section id="categories">
+        <h2>Browse Categories</h2>
+        <ul>
+            <li><a href="categories/business.html">Business Templates</a></li>
+            <li><a href="categories/hr.html">HR Templates</a></li>
+            <li><a href="categories/legal.html">Legal Templates</a></li>
+            <li><a href="categories/finance.html">Finance Templates</a></li>
+            <li><a href="categories/marketing.html">Marketing Templates</a></li>
+        </ul>
+    </section>
+
+    <!-- Featured Templates -->
+    <section id="featured-templates">
+        <h2>Featured Templates</h2>
+        <ul>
+            <li><a href="templates/business/quotation.html">Quotation Template</a></li>
+            <li><a href="templates/hr/payslip.html">Payslip Template</a></li>
+            <li><a href="templates/legal/lease-agreement.html">Lease Agreement Template</a></li>
+            <li><a href="templates/finance/cash-flow.html">Cash Flow Template</a></li>
+            <li><a href="templates/marketing/social-media-calendar.html">Social Media Calendar Template</a></li>
+        </ul>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Kenya Template Library</h2>
+        <p>We provide simple, editable templates for businesses and freelancers in Kenya. Our goal is to make running your business easier by giving you ready-to-use documents that save time and ensure professionalism.</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Kenya Template Library. All rights reserved.</p>
+    </footer>
+</body>
+</html>
