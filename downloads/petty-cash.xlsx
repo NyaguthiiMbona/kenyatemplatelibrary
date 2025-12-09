@@ -1,9 +1,1 @@
-					
-	petty-cash				
-	Date	Description	Category	Amount (KES)	Balance (KES)
-	1-Dec-25	Stationery	Office Supplies	500	4,500
-	2-Dec-25	Taxi fare	Transport	800	3,700
-	3-Dec-25	Snacks for meeting	Miscellaneous	300	3,400
-					
-					
-		Tip: Use formula for running balance: =Previous Balance - Amount			
+
