@@ -1,7 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Expense Report Template</title>
+    <link rel="stylesheet" href="../assets/style.css">
+</head>
+
 <body>
-<h1>Expense Report Test</h1>
+
+<a href="../index.html">Home</a>
+
+<header class="header">
+    <h1>Expense Report Template</h1>
+    <p>Preview of a simple expense report format commonly used in Kenya.</p>
+</header>
+
+<div class="container">
+    <div class="card">
+        <p><strong>Expense Report</strong><br>
+        <br>
+        
+        <p>
+        <strong>Employee Name | Department | Expense Type | Date | Amount (KES)</strong><br>
+        ----------------------------------------------------------<br>
+        John Doe | Sales | Travel | 1 Dec 2025 | 2,500<br>
+        Jane Wanjiku | HR | Office Supplies | 2 Dec 2025| 1,200<br>
+        Peter Mwangi | Finance | Client Lunch | 3 Dec 2025 | 3,700
+        </p>
+
+        <p><strong>Tip:</strong> Add a total at the bottom using =SUM(E2:E100)</p>
+    </div>
+
+    <p style="margin-top:20px;">
+        <a href="../downloads/expense-report-template.xlsx" download>Download Editable Version</a>
+    </p>
+</div>
+
 </body>
 </html>
-
