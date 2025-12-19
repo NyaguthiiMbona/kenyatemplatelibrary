@@ -1,0 +1,65 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Partnership Agreement Template | Kenya Template Library</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+ </head>
+
+ <body>
+
+<header class="header">
+    <h1>Partneship Agreement</h1>
+    <a href="/index.html">← Back to Home</a>
+ </header>
+
+ <div class="container">
+    <div class="card">
+        <p><strong>Partnership Agreement</strong><br>
+        This Agreement is made on [Date] between:</p>
+
+    <p>
+            <strong>Partner 1:</strong> Address: [Address]<br>
+            <strong>Partner 2:</strong> Address: [Address], [Address]
+   </p>
+
+   <p><strong>1.Purpose</strong><br>
+        The partners agree to form a business partnership under the name [Business Name].</p>
+
+        <p><strong>2. Capital Contribution</strong><br>
+        Partner 1: [Amount KES], Partner 2: [Amount KES]</p>
+
+        <p><strong>3. Profit and Loss Sharing</strong><br>
+        Profits and losses will be shared as follows: [Percentage].</p>
+
+        <p><strong>4. Management</strong><br>
+        Decisions require majority vote or mutual agreement.</p>
+
+        <p><strong>5. Termination</strong><br>
+        Partnership may be dissolved with [Notice Period] notice. Assets/liabilities divided according to contributions.</p>
+
+        <p><strong>5.Governing Law</strong><br>
+        This Agreement is governed by the laws of the Republic of Kenya.</p>
+
+        <p><strong>Signatures</strong><br>
+        Partner 1: ___________________ Date: __________<br>
+        Partner 2: ___________________________ Date: __________
+        </p>
+
+        <p class="note">
+            This is a preview. Download the editable document for full legal wording.
+        </p>
+    </div>
+
+    <p style="margin-top: 20px;">
+        <a href="/downloads/partnership-agreement.docx">Download Editable Version</a>
+    </p>
+</div>
+
+</body>
+</html>
+
+        
+    
+
+    
