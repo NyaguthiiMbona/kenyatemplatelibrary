@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Attendance Sheet Template Kenya</title>
+    <link rel="stylesheet" href="../assets/style.css">
+</head>
+
+<body>
+
+<a href="../index.html">Home</a>
+
+<header class="header">
+    <h1>Attendance Sheet</h1>
+    <p>Preview of a monthly employee attendance register commonly used in Kenya.</p>
+</header>
+
+<div class="container">
+    <div class="card" style="overflow-x:auto;">
+
+        <table width="100%" cellpadding="6" border="1">
+            <tr>
+                <th>Employee Name</th>
+                <th>Department</th>
+                <th>1-Dec</th>
+                <th>2-Dec</th>
+                <th>3-Dec</th>
+                <th>...</th>
+                <th>31-Dec</th>
+                <th>Total Present</th>
+                <th>Total Absent</th>
+            </tr>
+
+            <tr>
+                <td>John Doe</td>
+                <td>Sales</td>
+                <td>P</td>
+                <td>P</td>
+                <td>A</td>
+                <td>...</td>
+                <td>P</td>
+                <td align="center">20</td>
+                <td align="center">2</td>
+            </tr>
+
+            <tr>
+                <td>Jane Wanjiku</td>
+                <td>HR</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>...</td>
+                <td>A</td>
+                <td align="center">22</td>
+                <td align="center">1</td>
+            </tr>
+        </table>
+
+        <h3 style="margin-top:20px;">Legend</h3>
+        <p>
+            <strong>P</strong> = Present<br>
+            <strong>A</strong> = Absent<br>
+            <strong>L</strong> = Leave
+        </p>
+
+        <p>
+            <strong>Tip:</strong> In Excel, calculate totals using formulas such as
+            <code>=COUNTIF(C2:AG2,"P")</code> for Total Present and
+            <code>=COUNTIF(C2:AG2,"A")</code> for Total Absent.
+        </p>
+
+    </div>
+
+    <p style="margin-top:20px;">
+        <a href="/downloads/attendance-sheet.xlsx" download>
+            Download Editable Version
+        </a>
+    </p>
+</div>
+
+</body>
+</html>
